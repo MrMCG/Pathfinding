@@ -13,8 +13,7 @@ int main()
 
 	// path from ship to 2,11 (id=123)
 	// !***** results in hexMap_Path1.jpg *****!
-	// testing new path to 124
-	cout << "\nPath Success?: " << pathfinder.FindPath(SHIP_ID , 124) << "\n\n";
+	cout << "\nPath Success?: " << pathfinder.FindPath(SHIP_ID , 123) << "\n\n";
 
 	// path from ship to 6,13 (id ==)
 	// !***** results in hexMap_Path2.jpg *****!
