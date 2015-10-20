@@ -1,4 +1,4 @@
-git-test
+Simple Pathfinding Program
 ========
 
-testing git with a simple pathfinding project
+testing/playing git with a simple A* pathfinding program.
